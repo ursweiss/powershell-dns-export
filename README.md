@@ -1,4 +1,6 @@
-powershell-dns-export
+Powershell DNS Export
 =====================
 
-Exports Windows DNS records to SQL queries to import into MySQL database of PowerDNS
+
+
+Exports DNS domains and records from Windows DNS to SQL queries to be imported i
